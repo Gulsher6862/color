@@ -1,1 +1,2 @@
 This is red file
+No it is an red file under the name of blue fiel extension.
